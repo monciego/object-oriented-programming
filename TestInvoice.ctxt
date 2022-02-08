@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestInvoice
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Invoice\ getInvoiceData()
+comment3.params=anEmp
+comment3.target=void\ displayInvoice(Invoice)
+numComments=4

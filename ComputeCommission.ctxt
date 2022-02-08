@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ComputeCommission
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=value\ rate\ vehicle
+comment2.target=void\ computeCommission(int,\ double,\ char)
+numComments=3
